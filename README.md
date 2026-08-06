@@ -4,6 +4,12 @@ An end-to-end data analytics and machine learning project that investigates deli
 
 ---
 
+## Dataset
+
+**Dataset:** [DataCo Smart Supply Chain Dataset](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
+
+---
+
 ## Project Overview
 
 This project analyzes **172,765** e-commerce orders collected between **2015 and 2018** to answer key business questions related to delivery performance and profitability.
