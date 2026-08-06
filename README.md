@@ -6,7 +6,8 @@ An end-to-end data analytics and machine learning project that investigates deli
 
 ## Dataset
 
-**Dataset:** [DataCo Smart Supply Chain Dataset](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
+Dataset Link:
+https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
 
 ---
 
